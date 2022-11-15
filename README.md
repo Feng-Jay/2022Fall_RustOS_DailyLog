@@ -6,4 +6,4 @@ This repo records my daily progress
 
 ## 11.15
 
-完成<<Rust By Example>> 第一章的学习.
+完成`Rust By Example` 第一章的学习.
